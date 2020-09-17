@@ -1,0 +1,51 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Comic Sans MS", cursive;
+}
+
+h2 {
+    color: #9933ff;
+}
+
+header h2 {
+    color: rgb(180, 171, 248);
+}
+
+.site-footer {
+    background-image: linear-gradient(rgb(80, 235, 170), white);
+    padding: 30px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, rgb(228, 15, 157), rgb(48, 197, 110), #66dbff);
+    color: rgb(255, 255, 255);
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar-dark {
+    background-color: rgba(90, 31, 199, 0.678);
+}
+
+.tab-content {
+    border: 3px dashed #DDD;
+    border-top: 3px;
+    padding: 15px;
+}
+
+.carousel-caption {
+    background-color: rgba(145, 26, 26, 0.5);
+}
+
+.carousel {
+    border: solid rgb(76, 75, 80);
+}
